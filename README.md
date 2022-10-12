@@ -1,4 +1,6 @@
 # AWS SDK for Android 
+[Arun notes]
+Use ./gradlew build -x test -x lint for building
 
 [![DiscordChat](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.gg/amplify)
 [![GitHub release](https://img.shields.io/github/release/aws-amplify/aws-sdk-android.svg)](https://github.com/aws-amplify/aws-sdk-android/releases)
