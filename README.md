@@ -1,6 +1,19 @@
 # AWS SDK for Android 
-[Arun notes]
-Use ./gradlew build -x test -x lint for building
+[Arun notes] 
+- Use the following command for building
+```
+./gradlew build -x test -x lint
+```
+- Update the version number in gradle.properties (to a unique one)
+```
+-VERSION_NAME=2.54.0
++VERSION_NAME=2.99.2
+
+```
+- Install to local repo
+```
+./gradlew install
+```
 
 [![DiscordChat](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.gg/amplify)
 [![GitHub release](https://img.shields.io/github/release/aws-amplify/aws-sdk-android.svg)](https://github.com/aws-amplify/aws-sdk-android/releases)
